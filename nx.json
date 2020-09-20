@@ -24,6 +24,9 @@
   "projects": {
     "nx-angular": {
       "tags": []
+    },
+    "api": {
+      "tags": []
     }
   }
 }
