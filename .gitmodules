@@ -1,0 +1,3 @@
+[submodule "apps/nx-angular"]
+	path = apps/nx-angular
+	url = git@github.com:nx-example-codebase/nx-angular.git
